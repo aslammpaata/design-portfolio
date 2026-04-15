@@ -11,6 +11,11 @@ I am a Computer Science (AI) student with experience in both software developmen
 - Event posters and promotional graphics
 - Sports and community campaigns
 
+## 📢 Sample Work
+
+![Poster 1](posters/AWISI/Partnership Announcement/4.jpg)
+![Poster 2](posters/event-poster.png)
+
 ### 📱 Social Media Content
 - Instagram and digital campaign designs
 - Engagement-focused visual content
